@@ -36,7 +36,6 @@ ball = turtle.Turtle()
 ball.speed(0)
 ball.shape("circle")
 ball.color("white")
-#ball.shapesize(stretch_wid=5, stretch_len=1, outline=None)
 ball.penup()
 ball.goto(0, 0)
 
